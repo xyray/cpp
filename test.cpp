@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    std::string lxk = "lxk";
+    std::string lxk = "lxk & lxp";
     printf("hello %s !\n", lxk.c_str());
     return 0;
 }
